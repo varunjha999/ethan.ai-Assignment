@@ -1,3 +1,34 @@
+
+#All the functionality working except search work in progress.
+
+
+Frontend React Developer Assignment:
+
+Create a Todo list application where the user should be able to perform all CRUD (Create, Read, Update, Delete) functionalities.
+
+Application requirements:
+Users should be able to add a todo task.
+The application should list down all tasks added.
+The user should be able to delete and edit a particular task.
+There must be a search field where the user can search for all the tasks that were added.
+Technical Requirements:
+Application must be built using React JS or Next JS with Typescript only.
+Use Ant design or Material UI for building UI components, Tailwind CSS or Bootstrap for styling and layouts. (This is not important but any use of these will increase the chances for consideration).
+Finished applications must be deployed in the hosting service of your choice, e.g Vercel, Netlify.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
